@@ -1,1 +1,1 @@
-# e-commerce_cohort_retention_analysis
+In this project I explored an e-commerce dataset and created a retention cohort analysis in SQL and Tableau.
